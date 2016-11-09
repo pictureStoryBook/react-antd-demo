@@ -1,12 +1,6 @@
-#基于React+Webpack+ES6+antd的独立项目
-
+##基于React+Webpack+ES6+antd的独立项目
 
 ----------
-
-## 项目截图
-
-![](https://img.alicdn.com/tps/TB10sZlNVXXXXclXpXXXXXXXXXX-1425-673.gif)
-
 
 ## 使用方法
 
@@ -29,3 +23,4 @@ npm run build
 - css文件、三方js库文件，业务js文件分别打包。
 
 - 引入了antd，本地开发的时候按需引入。
+
